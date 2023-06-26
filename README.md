@@ -1,6 +1,6 @@
 # Personal ChatGPT
 
-This Python script is a web crawler that visits a list of URLs and extracts code snippets from the HTML content of each page. It can be used to gather code examples and learn from different websites. The code snippets are saved to a file named `learned.txt` for future reference. For the code to get everything out of the links it can take HOURS to DAYS (based off the amount of links) for me to visit about 10,000 links it took about 40 minutes
+This Python script is a web crawler that visits a list of URLs and extracts code snippets from the HTML content of each page. It can be used to gather code examples and learn from different websites. The code snippets are saved to a file named `learned.txt` for future reference. For the code to get everything out of the links it can take HOURS to DAYS (based off the amount of links) for me to visit about 10,000 links it took about 40 minutes. NOTE THIS IS ONLY FOR CODING IT WILL ONLY GRAP CODE FROM WEBSITES NOTHING ELSE
 
 ## Features
 
