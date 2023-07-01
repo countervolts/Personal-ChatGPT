@@ -24,7 +24,7 @@ This Python script is a web crawler that visits a list of URLs and extracts code
 1. Clone the repository or download the `crawler.py` file.
 2. Install the required libraries: `pip install requests beautifulsoup4 tqdm`.
 3. Prepare a list of URLs to crawl and save them in a file named `links.txt`, with one URL per line.
-4. Run the script: `python main.py`.
+4. Run the script: `python wc.py`.
 5. The script will crawl the URLs, extract code snippets, and save them in the `learned.txt` file.
 6. Optionally, you can modify the code request in the `main()` function to generate specific Luau code snippets.
 
@@ -38,9 +38,9 @@ Here's an example of how to use the script:
    https://example.com/page2
    https://example.com/page3
    ```
-2. Run the script: `python main.py`.
+2. Run the script: `python wc.py`.
 3. The script will crawl the provided URLs, extract code snippets, and save them in the `learned.txt` file.
-4. You can view the learned code sections by running: `python crawler.py`.
+4. You can view the learned code sections by running: `python wc.py`.
 
 ## Notes
 
